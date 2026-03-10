@@ -13,6 +13,7 @@ Window functions (RANK, DENSE_RANK)
 CTEs (Common Table Expressions)
 Joins
 Group By & Subqueries
+Power BI for Visualisations
 
 Business Questions Solved
 1) Provide the list of markets in which customer  "Atliq  Exclusive"  operates its business in the  APAC  region.
@@ -21,15 +22,18 @@ Business Questions Solved
 2) What is the percentage of unique product increase in 2021 vs. 2020? The final output contains these fields, 
     unique_products_2020  unique_products_2021   percentage_chg
     <img width="728" height="141" alt="image" src="https://github.com/user-attachments/assets/7d9b5350-0234-4183-bce0-d295fe9dc463" />
-    
+	<img width="582" height="422" alt="image" src="https://github.com/user-attachments/assets/89d01bef-5a66-4990-aa81-d335362f3d77" />
+
 3) Provide a report with all the unique product counts for each  segment  and  sort them in descending order of product counts. The final output contains 
    2 fields, segment product_count
    <img width="400" height="316" alt="image" src="https://github.com/user-attachments/assets/d56cee25-b224-44a2-a7da-5bd871320992" />
+   <img width="701" height="402" alt="image" src="https://github.com/user-attachments/assets/51380d25-c0cd-4c8b-a37d-ccb8eb7e6e0f" />
 
 4)  Follow-up: Which segment had the most increase in unique products in 2021 vs 2020? The final output contains these fields, 
 	segment product_count_2020 product_count_2021 difference
     <img width="807" height="335" alt="image" src="https://github.com/user-attachments/assets/12f966ff-8a5c-4b04-8ba0-1884b3c47ef1" />
-	
+	<img width="592" height="331" alt="image" src="https://github.com/user-attachments/assets/67da0541-e721-4d22-abaa-2bc3f71dc2c5" />
+
 5)  Get the products that have the highest and lowest manufacturing costs. The final output should contain these fields, 
 	product_code product manufacturing_cost
 	<img width="762" height="202" alt="image" src="https://github.com/user-attachments/assets/75312cd8-87d5-45bf-9c8b-dcb9d1d34e16" />
