@@ -41,21 +41,27 @@ Business Questions Solved
 6)  Generate a report which contains the top 5 customers who received an average high  pre_invoice_discount_pct  for the  fiscal  year 2021  and in the 
 	Indian  market. The final output contains these fields, customer_code customer average_discount_percentage
 	<img width="782" height="207" alt="image" src="https://github.com/user-attachments/assets/e0c6736a-2fea-46dc-82d5-8b95a7ae344d" />
+	<img width="552" height="296" alt="image" src="https://github.com/user-attachments/assets/c23e0372-8713-45b8-b96d-93e6ebf12261" />
 
 7)  Get the complete report of the Gross sales amount for the customer  “Atliq Exclusive”  for each month  .  This analysis helps to  get an idea of low and 
 	high-performing months and take strategic decisions. The final report contains these columns: 
 	Month Year Gross sales Amount
 	<img width="553" height="322" alt="image" src="https://github.com/user-attachments/assets/8e7cf539-6a5c-4543-8e51-3f3bb7330f26" />
-	
+	<img width="1076" height="317" alt="image" src="https://github.com/user-attachments/assets/4b3147c9-d4b0-43d9-93fb-95ab362bf92a" />
+
 8)   In which quarter of 2020, got the maximum total_sold_quantity? The final output contains these fields sorted by the total_sold_quantity, 
      Quarter total_sold_quantity
 	<img width="491" height="217" alt="image" src="https://github.com/user-attachments/assets/0d362e76-dd99-4f9a-b5f4-40fef7ddb805" />
+	<img width="648" height="313" alt="image" src="https://github.com/user-attachments/assets/a7c8ff42-b47c-4549-9907-d5e0c43f4778" />
 
 9)  Which channel helped to bring more gross sales in the fiscal year 2021 and the percentage of contribution?  The final output  contains these fields, 
     channel gross_sales_mln percentage
 	<img width="700" height="210" alt="image" src="https://github.com/user-attachments/assets/b4561046-6cc4-40c1-8992-e8f30e9b9bc9" />
+	<img width="627" height="253" alt="image" src="https://github.com/user-attachments/assets/71e006fa-a05d-4c22-80b1-8fdc9a61ac71" />
 
 10) Get the Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021? The final output contains these 
 	fields, division product_code product total_sold_quantity rank_order
 	<img width="1298" height="386" alt="image" src="https://github.com/user-attachments/assets/0dd64b98-c1cf-48e4-8b9f-3f609f537660" />
+	<img width="492" height="242" alt="image" src="https://github.com/user-attachments/assets/00f83e60-beae-45b1-ba72-a0da6b14c938" />
+
 
