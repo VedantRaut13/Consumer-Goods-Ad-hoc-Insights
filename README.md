@@ -46,8 +46,8 @@ Business Questions Solved
 7)  Get the complete report of the Gross sales amount for the customer  “Atliq Exclusive”  for each month  .  This analysis helps to  get an idea of low and 
 	high-performing months and take strategic decisions. The final report contains these columns: 
 	Month Year Gross sales Amount
-	<img width="553" height="322" alt="image" src="https://github.com/user-attachments/assets/8e7cf539-6a5c-4543-8e51-3f3bb7330f26" />
-	<img width="1076" height="317" alt="image" src="https://github.com/user-attachments/assets/4b3147c9-d4b0-43d9-93fb-95ab362bf92a" />
+	<img width="606" height="522" alt="image" src="https://github.com/user-attachments/assets/58effe9c-b683-4a1e-83d5-285216a1f128" />
+	<img width="1042" height="305" alt="image" src="https://github.com/user-attachments/assets/7521eac2-2b5b-4945-8e80-c315c14fa8cf" />
 
 8)   In which quarter of 2020, got the maximum total_sold_quantity? The final output contains these fields sorted by the total_sold_quantity, 
      Quarter total_sold_quantity
